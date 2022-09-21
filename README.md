@@ -1,6 +1,6 @@
 # MYBIKE landing page
 
-It is landing page for manufacturer of MYBIKE bicycles.
+It is the landing page for a manufacturer of MYBIKE bicycles.
 
 Used HTML, Javascript, SCSS.
 
